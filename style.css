@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+  background-color: black;
+  color: forestgreen;
+
+}
+
+#text{
+    font-size: 3rem;
+    font-family: "Supermercado One";
+    color: yellow;
+    margin: 2rem auto;
+}
+
+textarea{
+    display: block;
+    margin: 4rem auto;
+    width: 80%;
+    height: 50vh;
+    border: 2px solid forestgreen;
+}
+
+#preview{
+    margin-top: 2rem;
+    font-size: 23px;
+
+}
+
+p{
+    text-align: center;
+}
+
+#body{
+    margin: auto;
+}
+
